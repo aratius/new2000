@@ -1,9 +1,8 @@
 const database = [
-  { id: 1, name: "drawing1", introduce: "hello1" },
-  { id: 2, name: "drawing2", introduce: "hello2" },
-  { id: 3, name: "drawing3", introduce: "hello3" },
-  { id: 4, name: "drawing4", introduce: "hello4" },
-  { id: 5, name: "drawing5", introduce: "hello5" },
+  { id: 1, name: "drawing1", link: "https://www.instagram.com/p/BnqcNP6AzBy/" },
+  { id: 2, name: "drawing2", link: "https://www.instagram.com/p/B9tsp-7pux-/" },
+  { id: 3, name: "drawing3", link: "https://www.instagram.com/p/BnTgH2wAwfL/" },
+  { id: 4, name: "drawing4", link: "https://www.instagram.com/p/CBS18S0Jw6q/" },
 ];
 
 export default {

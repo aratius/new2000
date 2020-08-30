@@ -46,13 +46,6 @@ const routes = [
           ),
       },
       {
-        path: "drawing/:id",
-        name: "content-drawing",
-        props: true,
-        component: () =>
-          import(/* webpackChunkName: "about" */ "../views/ContentDrawing.vue"),
-      },
-      {
         path: "contact",
         name: "content-contact",
         component: () =>
